@@ -1,0 +1,9 @@
+.idea
+/allure-results/*
+/build
+/config
+/src/test/java/results/*
+/target/
+/test-output.html
+/log4j2/*
+/*.iml
