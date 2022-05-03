@@ -12,7 +12,8 @@ import pojo.Comments;
 import java.util.ArrayList;
 import java.util.List;
 
-
+// Step class generated for validate_email feature file
+//method name defines the step itself
 public class ValidateEmailStepDef {
     ValidateEmailService validateEmailService = new ValidateEmailService();
     List<String> emails = new ArrayList<>();
